@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Would you like to play rock, paper, scissors? (Y/N)"
+echo "Would you like to play rock, paper, scissors? (y/n)"
 read answer
 
 if [ "$answer" == "y" ]
